@@ -506,7 +506,7 @@ npheno <- nrow(zmat)
 ## percentage of missing Z-scores in the original data 
 100*sum(is.na(zmat))/(nrow(zmat)*ncol(zmat)) # 0%
 nimp <- 1000 # # of missing/imputed Z-scores
-set.seed(44444)
+set.seed(1234)
 
 ## find index of all measured zscores
 all.i <- 1:(nrow(zmat)*ncol(zmat))
