@@ -1,5 +1,5 @@
 # komputeExamples
 
-A [workflowr][] project.
+The [KOMPUTE webpage](https://warkenca.github.io/komputeExamples/) includes several data examples utilizing the KOMPUTE package and function.
 
-[workflowr]: https://github.com/workflowr/workflowr
+
